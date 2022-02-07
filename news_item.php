@@ -16,3 +16,17 @@ https://dryclean.ru/upload/medialibrary/870/l7d3uz6ty1c2sw1kxpz3aa7lz9n0m9fd/n_2
 
 <div style="background-image: url('/upload/medialibrary/2a3/05vibmqsagpnygwj9mx5sj0ihe1ssnga/n_20_01_22_3.jpeg'); background-repeat: no-repeat; max-width: 800px; height: 533px; margin: 20px auto;"></div>
 <div style="background-image: url('/upload/medialibrary/870/l7d3uz6ty1c2sw1kxpz3aa7lz9n0m9fd/n_20_01_22_2.jpeg'); background-repeat: no-repeat; max-width: 800px; height: 533px; margin: 20px auto;"></div>
+
+
+<h3>"Важно знать!" На телеканале ТВЦ</h3>
+
+<p>Главный технолог сети химчисток "Диана" -
+    Нина Петровна Новикова приняла участие в съёмках программы "Настроение" на телеканале ТВЦ.</p><br>
+
+<p>Какие проблемы могут быть вызваны некачественными аксессуарами?</p><br>
+
+<p>И при чём здесь парниковый эффект? Как себя обезопасить, знает рубрика "Важно знать".</p><br>
+<p>Включайте настроение!:)</p>
+<p>Сюжет доступен по <a href="https://nastroenie.tv/episode/200422" target="_blank">ссылке</a>.</p>
+
+
