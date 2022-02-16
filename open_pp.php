@@ -22,3 +22,4 @@
 <p style="text-align: justify;">
     Будем рады ответить на все вопросы по телефону горячей линии «Дианы»: <span style="font-weight: bold;">8 (800) 222-82-26</span>
 </p>
+
