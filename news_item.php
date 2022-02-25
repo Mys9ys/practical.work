@@ -48,3 +48,6 @@ https://dryclean.ru/upload/medialibrary/1b8/8cowdtcxehyobsn7yivlt9ercoh5h7p0/n_1
 <p>Всё, что нужно
     для выигрыша-следить за новостями в нашем официальном Инстаграм-аккаунте <a href="https://www.instagram.com/dryclean.ru/" target="_blank">@dryclean</a>.</p>
 <p>Будет интересно.</p>
+
+
+<h3>Внимание</h3>
