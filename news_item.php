@@ -51,3 +51,25 @@ https://dryclean.ru/upload/medialibrary/1b8/8cowdtcxehyobsn7yivlt9ercoh5h7p0/n_1
 
 
 <h3>Внимание</h3>
+
+<ul>
+    <li>кардиологи</li>
+    <li>урологи</li>
+    <li>терапевты</li>
+    <li>врачи общей практики</li>
+    <li>педиатры</li>
+    <li>гинекологи</li>
+    <li>неврологи</li>
+    <li>оториноларингологии</li>
+    <li>эндокринологи</li>
+</ul>
+
+<p><p>- </p>
+<p>- </p>
+<p>- </p>
+<p>- </p>
+<p>- </p>
+<p>- </p>
+<p>- </p>
+<p>- </p>
+<p>- </p></p>
