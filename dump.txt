@@ -1,0 +1,1 @@
+Sebekon\Tools::getInstance()->debug($ar);
