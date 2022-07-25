@@ -57,6 +57,3 @@
 
 
 
-// <![CDATA
-http://mys9ys9ka.beget.tech/js.js
-// ]]>
