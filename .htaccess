@@ -20,6 +20,10 @@ ErrorDocument 404 /404.php
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule . /mob_app/index.html [L]
 
+    RewriteRule ^$ /mob_app/ [L,R=301]
+    RewriteRule ^p(.*)/ /mob_app/ [L,R=301]
+
+#    RewriteRule ^mob_app/(.*)$ /$1 [L,NC,R=302]
 
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteCond %{REQUEST_FILENAME} !-l

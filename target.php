@@ -21,3 +21,71 @@
     <input type="hidden" name="LIST[SOURCE][1590][VALUE]" id="field-hidden-name-1590" value="Егор Таргет">
     <input type="hidden" name="LIST[SOURCE][1590][STATUS_ID]" id="stage-status-id-1590" data-status-id="1" value="205">
 </div>
+
+<form name="iblock_add" action="/personal/" method="post" enctype="multipart/form-data">
+    <input type="hidden" name="sessid" id="sessid" value="fc662949fc90834740c4f7c810a6fd25">
+    <div class="form-group">
+        <label for="inputdate">Фамилия<span class="starrequired">*</span></label>
+
+
+
+
+        <input type="text" name="PROPERTY[3][0]" size="30" value="" class="form-control">
+    </div><div class="form-group">
+        <label for="inputdate">Имя<span class="starrequired">*</span></label>
+
+
+
+
+        <input type="text" name="PROPERTY[4][0]" size="30" value="" class="form-control">
+    </div><div class="form-group">
+        <label for="inputdate">Отчество<span class="starrequired">*</span></label>
+
+
+
+
+        <input type="text" name="PROPERTY[5][0]" size="30" value="" class="form-control">
+    </div><div class="form-group">
+        <label for="inputdate">Телефон<span class="starrequired">*</span></label>
+
+
+
+
+        <input type="text" name="PROPERTY[6][0]" size="30" value="" class="form-control">
+    </div><table class="data-table" style="width: 90%">
+        <thead>
+        <tr>
+            <td colspan="2">&nbsp;</td>
+        </tr>
+        </thead>
+        <tbody>
+
+
+
+
+
+        <input type="hidden" name="PROPERTY[NAME][0]" size="30" value="379" class="form-control">
+
+
+
+
+
+        <input type="hidden" name="PROPERTY[7][0]" size="30" value="13446" class="form-control">
+
+
+        <input type="hidden" name="PROPERTY[8][0][VALUE]" value="16.03.2023">
+
+
+
+
+        <input type="hidden" name="PROPERTY[9][0]" size="30" value="13446" class="form-control">
+        </tbody>
+        <tfoot>
+        <tr>
+            <td colspan="2">
+                <input type="submit" name="iblock_submit" value="Передать">
+            </td>
+        </tr>
+        </tfoot>
+    </table>
+</form>

@@ -1,0 +1,892 @@
+{
+  "3": {
+    "f1races": {
+      "country": {
+        "ID": "1",
+        "NAME": "Австралия",
+        "PREVIEW_PICTURE": "207",
+        "flag": "/upload/iblock/239/kxdcmv1hju0an89rsst0e5y0bd7xunch.png"
+      },
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8200&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "01.04",
+        "time": "08:00"
+      },
+      "date": "01.04",
+      "active": "N",
+      "id": "8175",
+      "status": null,
+      "race": {
+        "date": "02.04",
+        "time": "08:00"
+      },
+      "name": "Мельбурн",
+      "number": "3"
+    },
+    "prognosf1": {
+      "country": null,
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8207&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "02.06",
+        "time": "11:18"
+      },
+      "date": "02.06",
+      "active": "Y",
+      "id": "8375",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Прогноз на гонку: 3",
+      "number": "3"
+    },
+    "resultf1": {
+      "country": null,
+      "qual_sum": "13",
+      "race_sum": "12",
+      "sprint_sum": 0,
+      "best_lap": "[0]",
+      "all": "25",
+      "qual": {
+        "date": "08.06",
+        "time": "10:58"
+      },
+      "date": "08.06",
+      "active": "Y",
+      "id": "9246",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Результаты на : 3",
+      "number": "3"
+    }
+  },
+  "4": {
+    "f1races": {
+      "country": {
+        "ID": "8212",
+        "NAME": "Азербайджан",
+        "PREVIEW_PICTURE": "174",
+        "flag": "/upload/iblock/1ad/vageeyvcnewno4r18x7emt31saf88gu8.png"
+      },
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8202&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "28.04",
+        "time": "16:00"
+      },
+      "date": "28.04",
+      "active": "N",
+      "id": "8213",
+      "status": null,
+      "race": {
+        "date": "30.04",
+        "time": "14:00"
+      },
+      "sprint": {
+        "date": "29.04",
+        "time": "16:30"
+      },
+      "name": "Баку",
+      "number": "4"
+    },
+    "prognosf1": {
+      "country": null,
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8202&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "02.06",
+        "time": "15:46"
+      },
+      "date": "02.06",
+      "active": "Y",
+      "id": "8446",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Прогноз на гонку: 4",
+      "number": "4"
+    },
+    "resultf1": {
+      "country": null,
+      "qual_sum": "12.5",
+      "race_sum": "20",
+      "sprint_sum": "14.5",
+      "best_lap": "[5]",
+      "all": "47",
+      "qual": {
+        "date": "08.06",
+        "time": "10:58"
+      },
+      "date": "08.06",
+      "active": "Y",
+      "id": "9266",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Результаты на : 4",
+      "number": "4"
+    }
+  },
+  "5": {
+    "f1races": {
+      "country": {
+        "ID": "24",
+        "NAME": "США",
+        "PREVIEW_PICTURE": "33",
+        "flag": "/upload/iblock/980/ui62dqshyi2j5jhvg1xgrtrzwel1zpw3.png"
+      },
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8206&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "06.05",
+        "time": "23:00"
+      },
+      "date": "06.05",
+      "active": "N",
+      "id": "8216",
+      "status": null,
+      "race": {
+        "date": "07.05",
+        "time": "22:30"
+      },
+      "name": "Майами",
+      "number": "5"
+    },
+    "prognosf1": {
+      "country": null,
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8200&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "02.06",
+        "time": "17:04"
+      },
+      "date": "02.06",
+      "active": "Y",
+      "id": "8552",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Прогноз на гонку: 5",
+      "number": "5"
+    },
+    "resultf1": {
+      "country": null,
+      "qual_sum": "8.5",
+      "race_sum": "17.5",
+      "sprint_sum": 0,
+      "best_lap": "[0]",
+      "all": "26",
+      "qual": {
+        "date": "08.06",
+        "time": "10:58"
+      },
+      "date": "08.06",
+      "active": "Y",
+      "id": "9303",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Результаты на : 5",
+      "number": "5"
+    }
+  },
+  "7": {
+    "f1races": {
+      "country": {
+        "ID": "8194",
+        "NAME": "Монако",
+        "PREVIEW_PICTURE": "156",
+        "flag": "/upload/iblock/4da/813vkazlow2ycl72539hb83fgtjer6jp.png"
+      },
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8207&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "27.05",
+        "time": "17:00"
+      },
+      "date": "27.05",
+      "active": "N",
+      "id": "8218",
+      "status": null,
+      "race": {
+        "date": "28.05",
+        "time": "16:00"
+      },
+      "name": "Монако",
+      "number": "7"
+    },
+    "prognosf1": {
+      "country": null,
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8206&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "26.05",
+        "time": "17:28"
+      },
+      "date": "26.05",
+      "active": "Y",
+      "id": "8223",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Добавил : 26.05.2023 17:28:49",
+      "number": "7"
+    },
+    "resultf1": {
+      "country": null,
+      "qual_sum": "15",
+      "race_sum": "18.5",
+      "sprint_sum": 0,
+      "best_lap": "[0]",
+      "all": "33.5",
+      "qual": {
+        "date": "08.06",
+        "time": "10:58"
+      },
+      "date": "08.06",
+      "active": "Y",
+      "id": "9306",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Результаты на : 7",
+      "number": "7"
+    }
+  },
+  "8": {
+    "f1races": {
+      "country": {
+        "ID": "11",
+        "NAME": "Испания",
+        "PREVIEW_PICTURE": "218",
+        "flag": "/upload/iblock/d4d/z8q169380fjhn8q0pfl8vu77drg5xrjo.png"
+      },
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8206&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "03.06",
+        "time": "17:00"
+      },
+      "date": "03.06",
+      "active": "N",
+      "id": "8219",
+      "status": null,
+      "race": {
+        "date": "04.06",
+        "time": "16:00"
+      },
+      "name": "Барселона",
+      "number": "8"
+    },
+    "prognosf1": {
+      "country": null,
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8206&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "05.06",
+        "time": "10:20"
+      },
+      "date": "05.06",
+      "active": "Y",
+      "id": "8640",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Прогноз на гонку: 8",
+      "number": "8"
+    },
+    "resultf1": {
+      "country": null,
+      "qual_sum": "7.5",
+      "race_sum": "25.5",
+      "sprint_sum": 0,
+      "best_lap": "[5]",
+      "all": "33",
+      "qual": {
+        "date": "08.06",
+        "time": "10:59"
+      },
+      "date": "08.06",
+      "active": "Y",
+      "id": "9343",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Результаты на : 8",
+      "number": "8"
+    }
+  },
+  "9": {
+    "f1races": {
+      "country": {
+        "ID": "13",
+        "NAME": "Канада",
+        "PREVIEW_PICTURE": "183",
+        "flag": "/upload/iblock/b25/dmxtfqgg1axk8fzc6y09e33t6bsqa3mf.png"
+      },
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8200&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "17.06",
+        "time": "23:00"
+      },
+      "date": "17.06",
+      "active": "N",
+      "id": "8221",
+      "status": null,
+      "race": {
+        "date": "18.06",
+        "time": "21:00"
+      },
+      "name": "Монреаль",
+      "number": "9"
+    },
+    "prognosf1": {
+      "country": null,
+      "qual_sum": 0,
+      "race_sum": 0,
+      "sprint_sum": 0,
+      "best_lap": "[&quot;8206&quot;]",
+      "all": 0,
+      "qual": {
+        "date": "26.05",
+        "time": "17:55"
+      },
+      "date": "26.05",
+      "active": "Y",
+      "id": "8224",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Добавил : 26.05.2023 17:55:24",
+      "number": "9"
+    },
+    "resultf1": {
+      "country": null,
+      "qual_sum": "5.5",
+      "race_sum": "18",
+      "sprint_sum": 0,
+      "best_lap": "[0]",
+      "all": "23.5",
+      "qual": {
+        "date": "19.06",
+        "time": "10:05"
+      },
+      "date": "19.06",
+      "active": "Y",
+      "id": "10829",
+      "status": null,
+      "race": {
+        "date": "",
+        "time": null
+      },
+      "name": "Участник: 20 Результаты на : 9",
+      "number": "9"
+    }
+  }
+}
+
+{
+  "f1races": {
+    "country": {
+      "ID": "1",
+      "NAME": "Австралия",
+      "PREVIEW_PICTURE": "207",
+      "flag": "/upload/iblock/239/kxdcmv1hju0an89rsst0e5y0bd7xunch.png"
+    },
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8200&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "01.04",
+      "time": "08:00"
+    },
+    "date": "01.04",
+    "active": "N",
+    "id": "8175",
+    "status": null,
+    "race": {
+      "date": "02.04",
+      "time": "08:00"
+    },
+    "name": "Мельбурн",
+    "number": "3"
+  },
+  "prognosf1": {
+    "country": null,
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8207&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "02.06",
+      "time": "11:18"
+    },
+    "date": "02.06",
+    "active": "Y",
+    "id": "8375",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Прогноз на гонку: 3",
+    "number": "3"
+  },
+  "resultf1": {
+    "country": null,
+    "qual_sum": "13",
+    "race_sum": "12",
+    "sprint_sum": 0,
+    "best_lap": "[0]",
+    "all": "25",
+    "qual": {
+      "date": "08.06",
+      "time": "10:58"
+    },
+    "date": "08.06",
+    "active": "Y",
+    "id": "9246",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Результаты на : 3",
+    "number": "3"
+  }
+}
+
+{
+  "f1races": {
+    "country": {
+      "ID": "8212",
+      "NAME": "Азербайджан",
+      "PREVIEW_PICTURE": "174",
+      "flag": "/upload/iblock/1ad/vageeyvcnewno4r18x7emt31saf88gu8.png"
+    },
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8202&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "28.04",
+      "time": "16:00"
+    },
+    "date": "28.04",
+    "active": "N",
+    "id": "8213",
+    "status": null,
+    "race": {
+      "date": "30.04",
+      "time": "14:00"
+    },
+    "sprint": {
+      "date": "29.04",
+      "time": "16:30"
+    },
+    "name": "Баку",
+    "number": "4"
+  },
+  "prognosf1": {
+    "country": null,
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8202&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "02.06",
+      "time": "15:46"
+    },
+    "date": "02.06",
+    "active": "Y",
+    "id": "8446",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Прогноз на гонку: 4",
+    "number": "4"
+  },
+  "resultf1": {
+    "country": null,
+    "qual_sum": "12.5",
+    "race_sum": "20",
+    "sprint_sum": "14.5",
+    "best_lap": "[5]",
+    "all": "47",
+    "qual": {
+      "date": "08.06",
+      "time": "10:58"
+    },
+    "date": "08.06",
+    "active": "Y",
+    "id": "9266",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Результаты на : 4",
+    "number": "4"
+  }
+}
+
+{
+  "f1races": {
+    "country": {
+      "ID": "24",
+      "NAME": "США",
+      "PREVIEW_PICTURE": "33",
+      "flag": "/upload/iblock/980/ui62dqshyi2j5jhvg1xgrtrzwel1zpw3.png"
+    },
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8206&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "06.05",
+      "time": "23:00"
+    },
+    "date": "06.05",
+    "active": "N",
+    "id": "8216",
+    "status": null,
+    "race": {
+      "date": "07.05",
+      "time": "22:30"
+    },
+    "name": "Майами",
+    "number": "5"
+  },
+  "prognosf1": {
+    "country": null,
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8200&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "02.06",
+      "time": "17:04"
+    },
+    "date": "02.06",
+    "active": "Y",
+    "id": "8552",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Прогноз на гонку: 5",
+    "number": "5"
+  },
+  "resultf1": {
+    "country": null,
+    "qual_sum": "8.5",
+    "race_sum": "17.5",
+    "sprint_sum": 0,
+    "best_lap": "[0]",
+    "all": "26",
+    "qual": {
+      "date": "08.06",
+      "time": "10:58"
+    },
+    "date": "08.06",
+    "active": "Y",
+    "id": "9303",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Результаты на : 5",
+    "number": "5"
+  }
+}
+
+{
+  "f1races": {
+    "country": {
+      "ID": "8194",
+      "NAME": "Монако",
+      "PREVIEW_PICTURE": "156",
+      "flag": "/upload/iblock/4da/813vkazlow2ycl72539hb83fgtjer6jp.png"
+    },
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8207&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "27.05",
+      "time": "17:00"
+    },
+    "date": "27.05",
+    "active": "N",
+    "id": "8218",
+    "status": null,
+    "race": {
+      "date": "28.05",
+      "time": "16:00"
+    },
+    "name": "Монако",
+    "number": "7"
+  },
+  "prognosf1": {
+    "country": null,
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8206&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "26.05",
+      "time": "17:28"
+    },
+    "date": "26.05",
+    "active": "Y",
+    "id": "8223",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Добавил : 26.05.2023 17:28:49",
+    "number": "7"
+  },
+  "resultf1": {
+    "country": null,
+    "qual_sum": "15",
+    "race_sum": "18.5",
+    "sprint_sum": 0,
+    "best_lap": "[0]",
+    "all": "33.5",
+    "qual": {
+      "date": "08.06",
+      "time": "10:58"
+    },
+    "date": "08.06",
+    "active": "Y",
+    "id": "9306",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Результаты на : 7",
+    "number": "7"
+  }
+}
+
+{
+  "f1races": {
+    "country": {
+      "ID": "11",
+      "NAME": "Испания",
+      "PREVIEW_PICTURE": "218",
+      "flag": "/upload/iblock/d4d/z8q169380fjhn8q0pfl8vu77drg5xrjo.png"
+    },
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8206&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "03.06",
+      "time": "17:00"
+    },
+    "date": "03.06",
+    "active": "N",
+    "id": "8219",
+    "status": null,
+    "race": {
+      "date": "04.06",
+      "time": "16:00"
+    },
+    "name": "Барселона",
+    "number": "8"
+  },
+  "prognosf1": {
+    "country": null,
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8206&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "05.06",
+      "time": "10:20"
+    },
+    "date": "05.06",
+    "active": "Y",
+    "id": "8640",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Прогноз на гонку: 8",
+    "number": "8"
+  },
+  "resultf1": {
+    "country": null,
+    "qual_sum": "7.5",
+    "race_sum": "25.5",
+    "sprint_sum": 0,
+    "best_lap": "[5]",
+    "all": "33",
+    "qual": {
+      "date": "08.06",
+      "time": "10:59"
+    },
+    "date": "08.06",
+    "active": "Y",
+    "id": "9343",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Результаты на : 8",
+    "number": "8"
+  }
+}
+
+{
+  "f1races": {
+    "country": {
+      "ID": "13",
+      "NAME": "Канада",
+      "PREVIEW_PICTURE": "183",
+      "flag": "/upload/iblock/b25/dmxtfqgg1axk8fzc6y09e33t6bsqa3mf.png"
+    },
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8200&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "17.06",
+      "time": "23:00"
+    },
+    "date": "17.06",
+    "active": "N",
+    "id": "8221",
+    "status": null,
+    "race": {
+      "date": "18.06",
+      "time": "21:00"
+    },
+    "name": "Монреаль",
+    "number": "9"
+  },
+  "prognosf1": {
+    "country": null,
+    "qual_sum": 0,
+    "race_sum": 0,
+    "sprint_sum": 0,
+    "best_lap": "[&quot;8206&quot;]",
+    "all": 0,
+    "qual": {
+      "date": "26.05",
+      "time": "17:55"
+    },
+    "date": "26.05",
+    "active": "Y",
+    "id": "8224",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Добавил : 26.05.2023 17:55:24",
+    "number": "9"
+  },
+  "resultf1": {
+    "country": null,
+    "qual_sum": "5.5",
+    "race_sum": "18",
+    "sprint_sum": 0,
+    "best_lap": "[0]",
+    "all": "23.5",
+    "qual": {
+      "date": "19.06",
+      "time": "10:05"
+    },
+    "date": "19.06",
+    "active": "Y",
+    "id": "10829",
+    "status": null,
+    "race": {
+      "date": "",
+      "time": null
+    },
+    "name": "Участник: 20 Результаты на : 9",
+    "number": "9"
+  }
+}
